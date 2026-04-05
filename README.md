@@ -1,4 +1,4 @@
-Spotify Popularity Prediction 🎧
+Spotify Popularity Prediction 
 Project Overview
 
 The goal of this project is to predict the popularity of Spotify tracks using a set of audio features and categorical attributes describing each song. Spotify provides several numerical indicators that capture different musical characteristics of a track, such as rhythm, energy, mood, and structure.
